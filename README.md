@@ -1,5 +1,5 @@
 # Personal-Website
-To see the website, download the file and double click on index.html
+To see the website, download the file, unzip, drag the "freelancer" file to your browser and click on index.html
 
 
 ## Application overview:
